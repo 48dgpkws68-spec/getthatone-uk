@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://getthatone.co.uk/sitemap.xml
