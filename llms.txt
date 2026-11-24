@@ -2,6 +2,18 @@
 
 > Independent top 10 buying guides. Per product type ten models compared on specs, price and reviews, with pros and cons, a buying guide and FAQ. Prices are indicative reference prices.
 
+getthatone is run by Nick van Straaten, an independent publisher based in the Netherlands. For each product type we compare models on specs, price and buyer reviews, and we update a guide when prices change or a better model comes out. We don't test products in a lab ourselves. Our guides are written with the help of AI tools, based on manufacturer specs, prices and buyer reviews; Nick oversees the method and corrects guides when readers or our own checks find a mistake. Contact: nick@4neon.nl
+
+## Main pages
+
+- [getthatone](https://getthatone.co.uk/): Independent top 10 buying guides: the best TVs, robot vacuums, air fryers and more of 2026. Compared on price, specs and reviews.
+- [All guides](https://getthatone.co.uk/all-guides.html): Overview of all top 10 buying guides on getthatone, filterable by category.
+- [How we choose](https://getthatone.co.uk/how-we-choose.html): How we rank products: a score from 1 to 10 for performance, value, reliability and ease of use, based on specs, prices and buyer reviews. No lab tests.
+- [About us](https://getthatone.co.uk/about-us.html): getthatone publishes independent top 10 buying guides, run by Nick van Straaten from the Netherlands. No paid rankings: brands cannot buy a spot in our lists.
+- [Gifts](https://getthatone.co.uk/gifts/): Gift ideas for 2026: the number 1 from each of our top 10 guides, chosen on specs, price and buyer reviews.
+- [Buying quiz](https://getthatone.co.uk/buying-quiz.html): Answer three questions and find out which product from our top 10 guides best fits your budget and needs.
+- [Best value](https://getthatone.co.uk/best-value.html): For every product type, the model with the best value for money from our top 10 guides.
+
 ## Home appliances
 
 - [The 10 best robot vacuum and mop combos of 2026](https://getthatone.co.uk/best/best-robot-vacuum-and-mop.html): #1 Roborock Qrevo Curv
